@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.thinkaurelius.thrift:thrift-server:0.3.7:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/thinkaurelius/thrift/thrift-server/0.3.7/thrift-server-0.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/thinkaurelius/thrift/thrift-server/0.3.7/thrift-server-0.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
